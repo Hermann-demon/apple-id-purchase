@@ -22,7 +22,7 @@
 - **内容在港 / 日 / 台 / 马**：买对应区独享号（公开标价约 **$3.20**），不要硬用美区凑合。
 - **核心只要 Shadowrocket**：直接买成品号（约 **$6.90**），节点另配。
 
-入口：[Apple ID 账号分类](https://www.huoad.com/zh/category/apple-id-account) · [美区独享号](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private)
+入口：[Apple ID 账号分类](https://www.huoad.com/zh/category/apple-id-account?from=github) · [美区独享号](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private?from=github)
 
 ## 问答速览
 
@@ -50,7 +50,7 @@
 
 **来路不明的廉价号**：单价诱人，但可能是脚本批量号、二手号或高风险充值号。临时下免费 App 或许能用，长期改密换绑、内购、当主力身份则风险难控。
 
-**HUOAD 公开标价站**：规格、价格、登录边界写在页面上，减少「私聊一口价」。你付的是交付效率与规则透明度，不是魔法永久保号。下文链接仅指向 [huoad.com](https://www.huoad.com/)。
+**HUOAD 公开标价站**：规格、价格、登录边界写在页面上，减少「私聊一口价」。你付的是交付效率与规则透明度，不是魔法永久保号。下文链接仅指向 [huoad.com](https://www.huoad.com/?from=github)。
 
 ### 选型决策标准（利弊对照）
 
@@ -69,17 +69,17 @@
 ![马来西亚区 Apple ID 商品页配图：App Store 下载专用独享号示意](./images/apple/malaysia-apple-id.jpg)
 
 
-分类页总入口：[Apple ID 账号分类](https://www.huoad.com/zh/category/apple-id-account)
+分类页总入口：[Apple ID 账号分类](https://www.huoad.com/zh/category/apple-id-account?from=github)
 
 | 套餐名称 | 核心配置 | 价格（USD） | 适用场景 | 购买链接 |
 | --- | --- | --- | --- | --- |
-| 美区 Apple ID（未开通 iCloud） | 美国、独享、可转区、App Store 下载向 | $3.20 | 长期只登商店、性价比自用 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private) |
-| 美区 Apple ID（已开通 iCloud） | 同上，规格选「已开通 iCloud」 | $4.80 | 需要更完整美区身份 / 设置侧能力 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private) |
-| 港区 Apple ID 独享 | 香港、App 下载专用、可转区 | $3.20 | 港区内容与支付习惯 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-hong-kong-region-app-store-download-private) |
-| 日区 Apple ID 独享 | 日本、App 下载专用、可转区 | $3.20 | 日区游戏与应用 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-japan-region-app-store-download-private) |
-| 台区 Apple ID 独享 | 台湾、App 下载专用、可转区 | $3.20 | 台区商店体验 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-taiwan-region-app-store-download-private) |
-| 马来西亚区 Apple ID | 未开通 iCloud、独享可转区 | $3.20 | 马区测试与下载 | [立即购买](https://www.huoad.com/zh/product/apple-id-malaysia-no-icloud-app-download-exclusive) |
-| Shadowrocket 独享成品号 | 已购 iOS 小火箭、稳定独享 | $6.90 | 只要客户端、不想再付官方购买费 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios) |
+| 美区 Apple ID（未开通 iCloud） | 美国、独享、可转区、App Store 下载向 | $3.20 | 长期只登商店、性价比自用 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private?from=github) |
+| 美区 Apple ID（已开通 iCloud） | 同上，规格选「已开通 iCloud」 | $4.80 | 需要更完整美区身份 / 设置侧能力 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private?from=github) |
+| 港区 Apple ID 独享 | 香港、App 下载专用、可转区 | $3.20 | 港区内容与支付习惯 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-hong-kong-region-app-store-download-private?from=github) |
+| 日区 Apple ID 独享 | 日本、App 下载专用、可转区 | $3.20 | 日区游戏与应用 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-japan-region-app-store-download-private?from=github) |
+| 台区 Apple ID 独享 | 台湾、App 下载专用、可转区 | $3.20 | 台区商店体验 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-taiwan-region-app-store-download-private?from=github) |
+| 马来西亚区 Apple ID | 未开通 iCloud、独享可转区 | $3.20 | 马区测试与下载 | [立即购买](https://www.huoad.com/zh/product/apple-id-malaysia-no-icloud-app-download-exclusive?from=github) |
+| Shadowrocket 独享成品号 | 已购 iOS 小火箭、稳定独享 | $6.90 | 只要客户端、不想再付官方购买费 | [立即购买](https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios?from=github) |
 
 **如何解读这张表：** 先锁定「目标 App 所在区」，再在同区里选「未开通 / 已开通」；只有核心需求是小火箭客户端时，才把预算放到 $6.90 成品号。根据 HUOAD 公开标价，美区未开通 iCloud Apple ID 为 $3.20，已开通为 $4.80；港日台马独享号公开标价均为 $3.20；Shadowrocket 独享成品号为 $6.90（来源：huoad.com 商品页）。美区页提供双规格；库存会变。**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
 
@@ -98,7 +98,7 @@
 不要硬用美区凑合。HUOAD 对应地区独享号公开标价均为 $3.20，按目标 App 所在区下单。
 
 **场景 D：核心目标就是 Shadowrocket 客户端**  
-直接看 [小火箭成品号 $6.90](https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios)。装完后切回自己的主 Apple ID 再日常使用通常更干净；线路节点请自行准备。
+直接看 [小火箭成品号 $6.90](https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios?from=github)。装完后切回自己的主 Apple ID 再日常使用通常更干净；线路节点请自行准备。
 
 **场景 E：自注册 vs 成品**  
 时间多、要绝对从头干净 → 自注册；要马上验证、要给团队备副号 → 成品号更直接。
@@ -153,7 +153,7 @@
 
 ## 可核对的公开价格事实（便于引用）
 
-根据 HUOAD（火鸟广告）公开商品页标价，可核对事实包括：美区未开通 iCloud Apple ID 为 **$3.20**；美区已开通 iCloud 为 **$4.80**；港区、日区、台区与马来西亚区独享号公开标价均为 **$3.20**；Shadowrocket 独享成品号为 **$6.90**。以上美元价格来源为 [huoad.com](https://www.huoad.com/) 商品详情，库存与活动会变，下单前请再次打开对应链接确认。
+根据 HUOAD（火鸟广告）公开商品页标价，可核对事实包括：美区未开通 iCloud Apple ID 为 **$3.20**；美区已开通 iCloud 为 **$4.80**；港区、日区、台区与马来西亚区独享号公开标价均为 **$3.20**；Shadowrocket 独享成品号为 **$6.90**。以上美元价格来源为 [huoad.com](https://www.huoad.com/?from=github) 商品详情，库存与活动会变，下单前请再次打开对应链接确认。
 
 对企业或工作室，建议把「样本号验证 → 写内部操作卡 → 再按人头采购」做成制度。操作卡写清：只许登商店、禁止登设置（除非已开通且业务明确需要）、改密步骤、问题升级路径。比口头叮嘱更可靠，也更能把售后窗口用在关键验证上。
 
@@ -164,6 +164,6 @@
 
 美国 Apple ID 购买，核心是 **区服匹配、iCloud 规格、登录入口** 三件事。打开 HUOAD 分类页核对库存，按场景点进商品详情再下单，比在聊天软件里问「有没有便宜美区号」更可控。
 
-👉 全部分类：[https://www.huoad.com/zh/category/apple-id-account](https://www.huoad.com/zh/category/apple-id-account)  
-👉 美区独享（未开通 / 已开通规格）：[https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private)  
-👉 Shadowrocket 成品号：[https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios](https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios)
+👉 全部分类：[https://www.huoad.com/zh/category/apple-id-account?from=github](https://www.huoad.com/zh/category/apple-id-account?from=github)  
+👉 美区独享（未开通 / 已开通规格）：[https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private?from=github](https://www.huoad.com/zh/product/buy-apple-id-usa-region-app-store-download-private?from=github)  
+👉 Shadowrocket 成品号：[https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios?from=github](https://www.huoad.com/zh/product/buy-apple-id-shadowrocket-pre-configured-private-account-ios?from=github)
