@@ -8,12 +8,17 @@
 
 **核心关键词：美国 Apple ID 购买**
 
+![美国 Apple ID 购买指南封面配图（原创示意）](./images/apple/gen-cover.png)
+
+
 想在 App Store 下载国区没有的 AI 客户端、效率工具或海外游戏，却弹出「该 App 在您所在的国家或地区不可用」——很多人因此开始搜索「美国 Apple ID 购买」。真正难的不是下单，而是：**买未开通还是已开通 iCloud？多区号怎么配？小火箭成品号值不值？**
 
 本文按联盟长文结构，说明非国区 Apple ID 的选型逻辑，并以 **HUOAD（火鸟广告 / huoad.com）** 公开在售商品做对照。文中美元价均来自商品页；**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
 
 ![HUOAD 美区与多区 Apple ID 商品分类示意：App Store 下载向账号](./images/apple/category-apple-id.png)
 
+
+![怎么选 Apple ID 规格：只下载 / 需要 iCloud / 只要小火箭（原创示意）](./images/apple/gen-decision-flow.png)
 
 ## 直接结论
 
